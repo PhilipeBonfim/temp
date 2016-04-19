@@ -3,7 +3,7 @@ os tempos dos competidores e apura quais devem passar para a próxima fase (8 me
 qualificados), alocando, automaticamente, tais competidores nas raias da série em questão.
 O competidor com melhor tempo deve ser posicionado na raia 4. O segundo melhor na raia
 5. O terceiro melhor na raia 3. O de quarto tempo na raia 6, e assim por diante.
-
+https://www.dropbox.com/sh/ku1m2u4ol6jpmpy/AADjqgwYeuCj6Lb1oLqdnMrOa?dl=0
 
 CREATE Event "atualizar_series" ON Schedule Every 1 Day On 
 Do
