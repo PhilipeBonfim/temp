@@ -14,7 +14,7 @@
 
 ## Versão atual: v1.0
 
-## Tamanho aproximado: 5.0 KB
+## Tamanho aproximado: 3.0 KB
 
 ## Descrição
 
