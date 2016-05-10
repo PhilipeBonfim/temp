@@ -29,6 +29,8 @@ ao usuario as 25 palavras que mais apareceram e quantas vezes ocorreram, em orde
 
 Devem existir os seguintes arquivos:
 
+* `stop-words.txt` - palavras a serem ignoradas
+* `main.lua` - arquivo de código fonte
 
 ## Livro diário:
 
