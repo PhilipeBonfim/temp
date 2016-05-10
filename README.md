@@ -11,7 +11,6 @@
 * Michele Valente
 * Philipe Bonfim
 * Tatiana Magdalena
-* Érico Nascimento
 
 ## Versão atual: v1.0
 
