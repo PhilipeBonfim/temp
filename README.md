@@ -17,10 +17,8 @@
 ## Tamanho aproximado: 3.0 KB
 
 ## Descrição
+Recebe um caminho para um arquivo de onde será lido o texto e retorna as 25 strings mais frequentes, se o caminho não for uma string ele não executa e se for um camihno invalido, lança uma exeção.
 
-O programa recebe um arquivo .txt e conta quantas ocorrências cada palavra tem. Em seguida o usuário pode navegar entre as palavras mais usadas.
-o programa recebe um arquivo .txt e conta quantas ocorrências cada palavra tem. Ao final ele exibe
-ao usuario as 25 palavras que mais apareceram e quantas vezes ocorreram, em ordem decrescente de ocorrências.
 ## Execução:
 
 
@@ -29,8 +27,7 @@ ao usuario as 25 palavras que mais apareceram e quantas vezes ocorreram, em orde
 
 Devem existir os seguintes arquivos:
 
-* `stop-words.txt` - palavras a serem ignoradas
-* `main.lua` - arquivo de código fonte
+##Arquitetura
 
 ## Livro diário:
 
