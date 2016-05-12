@@ -12,8 +12,10 @@
 * Philipe Bonfim
 * Tatiana Magdalena
 
- Versão atual: v1.0
- Data 11/05/2016
+Data 10/05/2016
+#Versão atual: v1.0
+
+
 ## Tamanho aproximado: 3.0 KB
 
 ## Descrição
@@ -42,5 +44,3 @@ Devem existir os seguintes arquivos:
 * 2016-05-10 - Finalização da tradução do código 34 para Lua.
 * 2016-05-10 - Inicio do relatório do codigo e a explicação de como foram usadas as 6 regras.
 * 2016-05-10 - Fim da elaboração do diagrama simples e do relatório.
-
-
