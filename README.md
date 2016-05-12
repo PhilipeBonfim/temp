@@ -12,8 +12,8 @@
 * Philipe Bonfim
 * Tatiana Magdalena
 
-## Versão atual: v1.0
-## Data 11/05/2016
+# Versão atual: v1.0
+# Data 11/05/2016
 ## Tamanho aproximado: 3.0 KB
 
 ## Descrição
